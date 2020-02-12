@@ -1,2 +1,2 @@
 # jsp6
-homewortk
+homework
